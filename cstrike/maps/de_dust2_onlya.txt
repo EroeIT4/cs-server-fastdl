@@ -1,0 +1,10 @@
+Dust2_onlyA - Bomb-Defuse
+
+by Backbreaker
+
+Counter-Terrorists: Prevent Terrorists
+from bombing crates.
+
+
+Terrorists: The Terrorist carrying the
+C4 must destroy stash. 
